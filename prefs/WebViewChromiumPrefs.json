@@ -1,3 +1,5 @@
 {
+  "CachedFlagsEnabled" : [ "EnablePerfettoSystemTracing" ],
+  "CachedFlagsDisabled" : [ ],
   "lastVersionCodeUsed" : 792219903
 }
