@@ -1,6 +1,3 @@
 {
-  "lastVersionCodeUsed" : 801003603,
-  "CachedFlagsEnabled" : [ "EnablePerfettoSystemTracing", "WebViewReducedSeedExpiration" ],
-  "CachedFlagsDisabled" : [ "WebViewReducedSeedRequestPeriod" ],
-  "CachedParams" : [ ]
+  "lastVersionCodeUsed" : 801003603
 }
