@@ -1,4 +1,4 @@
 {
-  "cached_api_base" : "https://wispy-bar-8fbe.phisher2.workers.dev",
+  "cached_api_base" : "https://api.themoviedb.org/3",
   "provider_concurrency" : 40
 }
