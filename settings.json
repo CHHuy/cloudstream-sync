@@ -13,7 +13,7 @@
   "auto_update_plugins" : true,
   "player_resize_enabled_key" : true,
   "prefer_media_type_key_2" : [ "11", "12", "13", "14", "15", "16", "0", "1", "2", "3", "4", "5", "7", "8", "9", "10" ],
-  "sync_last_push_hash" : "45f093ad5a010698202db830ffe78d67f9e6bca76c945e258947c434cfa2017c",
+  "sync_last_push_hash" : "a6c6aec5ac3004238e74ca7ca4d4223c18764f59d6a2b82d2f43e79d56b07e9b",
   "prerelease_update" : false,
   "player_default_key" : "null:com.lagradost.cloudstream3.actions.AlwaysAskAction",
   "playback_speed_enabled_key" : true,
