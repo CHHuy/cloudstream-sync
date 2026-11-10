@@ -14,7 +14,7 @@
   "player_resize_enabled_key" : true,
   "prefer_media_type_key_2" : [ "11", "12", "13", "14", "15", "16", "0", "1", "2", "3", "4", "5", "7", "8", "9", "10" ],
   "show_media_info" : true,
-  "sync_last_push_hash" : "5a8828beb65a7c77c5abffb0dce1e9b1fa2ce681b1f9c834ec324defa829283b",
+  "sync_last_push_hash" : "150e34f4e35564ab4f9acd5d17009989d49f3aafe99439b61529fd73f9bffa88",
   "prerelease_update" : false,
   "player_default_key" : "null:com.lagradost.cloudstream3.actions.AlwaysAskAction",
   "playback_speed_enabled_key" : true,
@@ -45,7 +45,7 @@
   "software_decoding_key2" : -1,
   "double_tap_pause_enabled_key" : false,
   "enable_skip_op_from_database" : true,
-  "app_layout_key" : 0,
+  "app_layout_key" : -1,
   "autoplay_next_key" : true,
   "extra_brightness_enabled" : false
 }
